@@ -4,7 +4,7 @@ $isim = "Ali Yülkebir";
 echo "Merhaba, benim adım " . $isim . ".<br>";
 
 //Sayı türünde bir değişken örneği
-$yas = *;
+$yas = ;
 echo "Yaşım: " . $yas . "<br>";
 
 //Boolean türünde bir değişken örneği
